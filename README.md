@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kaleb Dereje – Full-Stack Developer and Software Engineering student at [Your University Name]. Passionate about building scalable web applications with React, Node.js, and modern web technologies. I enjoy turning ideas into clean, efficient code and exploring new tools to solve real-world problems.
+Kaleb Dereje – Full-Stack Developer and Software Engineering student at Addis Ababa Science and Technology University. Passionate about building scalable web applications with React, Node.js, and modern web technologies. I enjoy turning ideas into clean, efficient code and exploring new tools to solve real-world problems.
 
 
 ## 🌐 Socials:
